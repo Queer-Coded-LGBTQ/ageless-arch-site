@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Ageless Arch Linux",
-  description: "Arch for humands of intederminate age. Keeping Arch Ageless.",
+  description: "Arch for humans of intederminate age. Keeping Arch Ageless.",
 };
 
 export default function RootLayout({
